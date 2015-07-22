@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		586827451B5F804B00B45019 /* UIViewController+viewDidLoad.m in Sources */ = {isa = PBXBuildFile; fileRef = 586827441B5F804B00B45019 /* UIViewController+viewDidLoad.m */; };
 		58B34DC51B578CB2001C5FAD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B34DC41B578CB2001C5FAD /* main.m */; };
 		58B34DC81B578CB2001C5FAD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B34DC71B578CB2001C5FAD /* AppDelegate.m */; };
 		58B34DCB1B578CB2001C5FAD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B34DCA1B578CB2001C5FAD /* ViewController.m */; };
@@ -29,6 +30,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		586827431B5F804B00B45019 /* UIViewController+viewDidLoad.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+viewDidLoad.h"; sourceTree = "<group>"; };
+		586827441B5F804B00B45019 /* UIViewController+viewDidLoad.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+viewDidLoad.m"; sourceTree = "<group>"; };
 		58B34DBF1B578CB2001C5FAD /* OCMethodExchangeDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OCMethodExchangeDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		58B34DC31B578CB2001C5FAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		58B34DC41B578CB2001C5FAD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -91,6 +94,8 @@
 				58B34DC71B578CB2001C5FAD /* AppDelegate.m */,
 				58B34DC91B578CB2001C5FAD /* ViewController.h */,
 				58B34DCA1B578CB2001C5FAD /* ViewController.m */,
+				586827431B5F804B00B45019 /* UIViewController+viewDidLoad.h */,
+				586827441B5F804B00B45019 /* UIViewController+viewDidLoad.m */,
 				58B34DE81B578DA4001C5FAD /* Person.h */,
 				58B34DE91B578DA4001C5FAD /* Person.m */,
 				58B34DEB1B579502001C5FAD /* Car.h */,
@@ -229,6 +234,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				586827451B5F804B00B45019 /* UIViewController+viewDidLoad.m in Sources */,
 				58B34DED1B579502001C5FAD /* Car.m in Sources */,
 				58B34DCB1B578CB2001C5FAD /* ViewController.m in Sources */,
 				58B34DC81B578CB2001C5FAD /* AppDelegate.m in Sources */,
@@ -428,6 +434,7 @@
 				58B34DE41B578CB2001C5FAD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		58B34DE51B578CB2001C5FAD /* Build configuration list for PBXNativeTarget "OCMethodExchangeDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -436,6 +443,7 @@
 				58B34DE71B578CB2001C5FAD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

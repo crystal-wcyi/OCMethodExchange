@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>4F246768-D859-49CB-A975-50DA87CFC42C</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>OCMethodExchangeDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>877AEFDF52AA219E94210CFDCD9FDE7E980B573E</key>
 		<string>https://github.com/crystal-wcyi/OCMethodExchange.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>OCMethodExchangeDemo/OCMethodExchangeDemo.xcodeproj/project.xcworkspace</string>
+	<string>OCMethodExchangeDemo/OCMethodExchangeDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>877AEFDF52AA219E94210CFDCD9FDE7E980B573E</key>
